@@ -118,8 +118,8 @@ static string Textbook (string subject, string term)
              string path = @"C:\Users\Tony Stark\source\repos\SMS-study_material_searcher\chapterfiles\1.txt"; 
              string text = File.ReadAllText(path);
             text = text.ToLower();
-            int loc = text.IndexOf(term);//finds index of first occurance of the term
-            if (loc == -1)
+            int firstloc = text.IndexOf(term);//finds index of first occurance of the term
+            if (firstloc == -1)
             {
                 result = ("Term not Found");
             }
@@ -127,14 +127,36 @@ static string Textbook (string subject, string term)
             {
                 //using regex to find the indexes is a ba didea instead using for count
                 var matches = Regex.Matches(text, term);
-                Console.WriteLine("{0} occurances", matches.Count);
+                Console.WriteLine("\n{0} occurances\n", matches.Count);
 
-                //using list to find all indexes
+
+                //using while loop to find all the occurances
+                int loc = firstloc;
+                int n = 1;
+                while (loc <= text.LastIndexOf(term))
+                {
+                    Console.WriteLine( "\n{0}last location\n",text.LastIndexOf(term));
+                    if (loc != -1 && (loc + 400) != text.LastIndexOf(term))
+                    {
+                        result = text.Substring(loc, loc + 400);
+                        Console.WriteLine("\n{0} occurance \n\n",n);
+                        Console.WriteLine(result);
+                        text = text.Substring(loc + 300);
+                        loc = text.IndexOf(term);
+
+                        n++;
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nout of bounds");
+                        break;
+                    }
+                }
                 
 
-                int n = 1;
+                
                 Console.WriteLine(n + " Term Found " );
-                result = text.Substring(loc, loc + 600);//passes a string of 600 indexes to result  
+                //result = text.Substring(firstloc, firstloc + 600);//passes a string of 600 indexes to result  
             }
             Console.WriteLine("social");
             break;
@@ -142,6 +164,6 @@ static string Textbook (string subject, string term)
             Console.WriteLine(result);
             break;
     }
-    string Result = (result);
- return Result;
+    string Result = ("success");
+    return Result;
 }

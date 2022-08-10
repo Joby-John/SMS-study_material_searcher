@@ -2,6 +2,7 @@
 // no idea how im gonna do it anyways just starting , will find way on the way
 
 //functions to implement 1. serachcond, main, textbooks as of now 
+using System.Text.RegularExpressions;
 
 SearchCond(); //calls the searchcond function 
 static void SearchCond() // includes search conditions selects subjects
@@ -98,8 +99,6 @@ static void printresult( string subject, string Term)
 
 static string Textbook (string subject, string term)
 {
-    string path = @"C:\Users\Tony Stark\source\repos\SMS-study_material_searcher\chapterfiles\1.txt";
-    //searches somehow in textbooks and returns 
     string result = ("Not Found ");
     switch (subject)
     {
@@ -116,6 +115,7 @@ static string Textbook (string subject, string term)
             Console.WriteLine("chemistry");
             break;
         case "social":
+             string path = @"C:\Users\Tony Stark\source\repos\SMS-study_material_searcher\chapterfiles\1.txt"; 
              string text = File.ReadAllText(path);
             text = text.ToLower();
             int loc = text.IndexOf(term);//finds index of first occurance of the term
@@ -125,6 +125,13 @@ static string Textbook (string subject, string term)
             }
             else
             {
+                //using regex to find the indexes is a ba didea instead using for count
+                var matches = Regex.Matches(text, term);
+                Console.WriteLine("{0} occurances", matches.Count);
+
+                //using list to find all indexes
+                
+
                 int n = 1;
                 Console.WriteLine(n + " Term Found " );
                 result = text.Substring(loc, loc + 600);//passes a string of 600 indexes to result  

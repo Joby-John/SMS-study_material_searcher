@@ -133,16 +133,22 @@ static string Textbook (string subject, string term)
                 //using while loop to find all the occurances
                 int loc = firstloc;
                 int n = 1;
+                int limit =loc + 150;
+                int last = text.LastIndexOf(".");
                 while (loc <= text.LastIndexOf(term))
                 {
                     Console.WriteLine( "\n{0}last location\n",text.LastIndexOf(term));
-                    if (loc != -1 && (loc + 400) != text.LastIndexOf(term))
+                    if (loc != -1 && (limit) <= last)
                     {
-                        result = text.Substring(loc, loc + 400);
+                        Console.WriteLine("limit : " + limit);
+
+                        result = text.Substring(loc, limit);
+                        
                         Console.WriteLine("\n{0} occurance \n\n",n);
                         Console.WriteLine(result);
-                        text = text.Substring(loc + 300);
+                        text = text.Substring(limit);
                         loc = text.IndexOf(term);
+                        limit = loc + 150;
 
                         n++;
                     }

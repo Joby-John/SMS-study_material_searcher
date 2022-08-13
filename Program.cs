@@ -32,7 +32,7 @@ static void SearchCond() // includes search conditions selects subjects
             Social(term);
             break;
         default:
-            Console.Write("Enter a valid option");
+            Console.Write("Enter a valid subject");
             break;
         }
 }
@@ -47,7 +47,7 @@ static void Social(string term)
     string text = File.ReadAllText(path);
     text = text.ToLower();
     int firstloc = text.IndexOf(term);//finds index of first occurance of the term
-    int limit = firstloc+150;
+    int limit = firstloc + 100;
     int last = text.LastIndexOf(term);
     Console.WriteLine("The first term is at : {0}", firstloc);
     if(firstloc == -1)
@@ -66,10 +66,11 @@ static void Social(string term)
                 text = text.Substring(limit);
                 firstloc = text.IndexOf(term);
                 last = text.LastIndexOf(term);
-                limit = limit + 150;
+                limit = limit+100;
             }
             catch(ArgumentOutOfRangeException)
             {
+                Console.WriteLine("EXCEPTION STARTED");
                 Console.WriteLine("* {0}\n", text.Substring(firstloc));
                 break;
             }

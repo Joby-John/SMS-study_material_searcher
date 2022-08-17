@@ -47,7 +47,7 @@ static void Social(string term)
     string text = File.ReadAllText(path);
     text = text.ToLower();
     int firstloc = text.IndexOf(term);//finds index of first occurance of the term
-    int limit = firstloc + 100;
+    //int limit = firstloc + 100;
     int last = text.LastIndexOf(term);
     Console.WriteLine("The first term is at : {0}", firstloc);
     if(firstloc == -1)
@@ -62,11 +62,12 @@ static void Social(string term)
             
             try
             {
-                Console.WriteLine("* {0}\n", text.Substring(firstloc, limit));
-                text = text.Substring(limit);
+                Console.WriteLine("FIRST TERM OF THIS PRINT: {0}", firstloc);
+                Console.WriteLine("* {0}\n", text.Substring(firstloc, 250));//250 is the length of the string
+                text = text.Substring(250);//here it is cut from the index of 251 as the part before that was printed in the last exceution
                 firstloc = text.IndexOf(term);
                 last = text.LastIndexOf(term);
-                limit = limit+100;
+                //limit = firstloc + 100;
             }
             catch(ArgumentOutOfRangeException)
             {

@@ -1,192 +1,127 @@
 ﻿Resources
-
 Everything in our environment which can be used to satisfy our needs and is technologically accessible, economically feasible and culturally acceptable is termed as ‘Resource’. Human beings themselves are essential components of resources. They transform material available in the environment into resources and use them.
-Classification of Resources
-
+Classification of Resources.
 Resources can be classified in the following ways:
-
 (a) On the basis of origin – biotic and abiotic
-
 (b) On the basis of exhaustibility – renewable and non-renewable
-
 (c) On the basis of ownership – individual, community, national and international
-
 (d) On the basis of the status of development – potential, developed stock and reserves
 (a) On the Basis of Origin – Biotic and Abiotic
-
 Biotic Resources are obtained from the biosphere and have life.
-
 Eg: Human beings, flora and fauna, fisheries, livestock etc.
-
 Abiotic Resources: All those things which are composed of non-living things are called abiotic resources.
-
 Eg: rocks and metals.
 (b) On the Basis of Exhaustibility – Renewable and Non-Renewable
-
 The resources which can be renewed or reproduced by physical, chemical or mechanical processes are known as Renewable or Replenishable Resources. The renewable resource may further be divided into continuous or flow.
-
 Eg: Solar and wind energy, water, forests and wildlife, etc.
-
 Non-Renewable Resources occur over a very long geological time. These resources take millions of years in their formation. Some of the resources like metals are recyclable and some like fossil fuels cannot be recycled and get exhausted with their use.
-
 Eg: Minerals and fossil fuels.
 (c) On the Basis of Ownership – Individual, Community, National and International
-
 Individual Resources are owned privately by individuals. In villages people own lands whereas in urban areas people own plots, houses and other properties.
-
 Eg: Plantation, pasture lands, ponds, water in wells etc.
-
 Community Owned Resources are accessible to all the members of the community.
-
 Eg: Grazing grounds, burial grounds, public parks, picnic spots, playgrounds etc.
-
 National Resources are owned by a nation or country. All the minerals, water resources, forests, wildlife, land within the political boundaries and oceanic area up to 12 nautical miles (22.2 km) from the coast termed as territorial water and resources therein belong to the nation.
-
 Eg: Roads, canals, railways etc.
-
 International Resources are regulated by international institutions. The oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone belong to open ocean and no individual country can utilise these without the concurrence of international institutions.
 (d) On the Basis of the Status of Development – Potential, Developed Stock and Reserves
-
 Potential Resources are the resources which are found in a region but have not been utilised.
-
 Eg: Rajasthan and Gujarat have enormous potential for the development of wind and solar energy, but so far these have not been developed properly.
-
 Developed Resources: Resources which are surveyed and their quality and quantity have been determined for utilisation. The development of resources depends on technology and level of their feasibility.
-
 Materials in the environment which have the potential to satisfy human needs but human beings do not have the appropriate technology to access these, are called Stock.
-
 Eg: Hydrogen can be used as a rich source of energy. But we do not have advanced technology to use it.
-
 Reserves are the subset of the stock, which can be put into use with the help of existing technical ‘know-how’ but their use has not been started. These can be used for meeting future requirements.
-
 Eg: Water in the dams, forests etc. is a reserve which can be used in the future.
 Development of Resources
-
 Resources have been used by human beings indiscriminately and this has led to the following major problems.
-
-    Depletion of resources for satisfying the greed of a few individuals.
-    Accumulation of resources in a few hands, which, in turn, divided the society into two segments i.e rich and poor.
-    It has led to global ecological crises such as global warming, ozone layer depletion, environmental pollution and land degradation.
-
+Depletion of resources for satisfying the greed of a few individuals.
+Accumulation of resources in a few hands, which, in turn, divided the society into two segments i.e rich and poor.
+It has led to global ecological crises such as global warming, ozone layer depletion, environmental pollution and land degradation.
 Resource planning is essential for the sustainable existence of all forms of life. Sustainable Economic Development means “development should take place without damaging the environment, and development in the present should not compromise with the needs of future generations.”
 Resource Planning
-
 In India, there are some regions which can be considered self-sufficient in terms of the availability of resources and there are some regions which have acute shortage of some vital resources. This calls for balanced resource planning at the national, state, regional and local levels.
 Resource Planning in India
-
 Resource planning is a complex process which involves:
-
 (i) Identification and inventory of resources across the regions of the country. This involves surveying, mapping and qualitative and quantitative estimation and measurement of the resources.
-
 (ii) Evolving a planning structure endowed with appropriate technology, skill and institutional set up for implementing resource development plans.
-
 (iii) Matching the resource development plans with overall national development plans.
-
 Resources can contribute to development only when they are accompanied by appropriate technological development and institutional changes. India has made concerted efforts towards achieving the goals of resource planning, right from the First Five Year Plan launched after Independence.
-
 To overcome irrational consumption and over-utilisation of resources, resource conservation at various levels is important.
 Land Resources
-
 Land is a natural resource of utmost importance. It supports natural vegetation, wildlife, human life, economic activities, transport and communication systems. India has land under a variety of relief features, namely; mountains, plateaus, plains and islands as shown below:
 Land Utilisation
-
 Land resources are used for the following purposes:
-
-    Forests
-    Land not available for cultivation
-
-    a) Barren and wasteland
-
-    b) Land put to non-agricultural uses
-    Fallow lands
-    Other uncultivated lands (excluding fallow land)
-    Net sown area
-
+Forests
+Land not available for cultivation
+a) Barren and wasteland
+b) Land put to non-agricultural uses
+Fallow lands
+Other uncultivated lands (excluding fallow land)
+Net sown area
 Land Use Pattern in India
-
 The use of land is determined
-
-    Physical factors: such as topography, climate, soil types
-    Human factors: such as population density, technological capability and culture and traditions etc.
-
+Physical factors: such as topography, climate, soil types
+Human factors: such as population density, technological capability and culture and traditions etc.
 The data below represents the land use pattern in India
 Waste land is the land put to other non-agricultural uses which include rocky, arid and desert areas, roads, railways, industry etc. Continuous use of land over a long period of time without taking appropriate measures to conserve and manage it, has resulted in land degradation.
 Land Degradation and Conservation Measures
-
 Human activities such as deforestation, overgrazing, mining and quarrying have contributed significantly to land degradation. Mining sites leave deep scars and traces of over-burdening the land. In recent years, industrial effluents as waste have become a major source of land and water pollution in many parts of the country.
-
 Some of the ways through which we can solve the problems of land degradation are:
-
-    Afforestation and proper management of grazing.
-    Planting of shelter belts of plants.
-    Stabilisation of sand dunes by growing thorny bushes.
-    Proper management of waste lands.
-    Control of mining activities.
-    Proper discharge and disposal of industrial effluents and wastes after treatment.
-
+Afforestation and proper management of grazing.
+Planting of shelter belts of plants.
+Stabilisation of sand dunes by growing thorny bushes.
+Proper management of waste lands.
+Control of mining activities.
+Proper discharge and disposal of industrial effluents and wastes after treatment.
 Soil as a Resource
-
 Soil is the most important renewable natural resource. It is the medium of plant growth and supports different types of living organisms on the earth.
-
-    It takes millions of years to form soil upto a few cms in depth. Various forces of nature such as change in temperature, actions of running water, wind and glaciers, activities of decomposers etc contribute to the formation of soil.
-    Parent rock or bedrock, climate, vegetation and other forms of life and time are important factors in the formation of soil.
-    Chemical and organic changes which take place in the soil play an important role.
-    Soil also consists of organic (humus) and inorganic materials.
-
+It takes millions of years to form soil upto a few cms in depth. Various forces of nature such as change in temperature, actions of running water, wind and glaciers, activities of decomposers etc contribute to the formation of soil.
+Parent rock or bedrock, climate, vegetation and other forms of life and time are important factors in the formation of soil.
+Chemical and organic changes which take place in the soil play an important role.
+Soil also consists of organic (humus) and inorganic materials.
 Classification of Soils
-
 On the basis of the factors responsible for soil formation, colour, thickness, texture, age, chemical and physical properties, the soils of India are classified in different types as mentioned below.
-
 Alluvial Soils
-
-    The entire northern plains are made of alluvial soil.
-    The Alluvial Soil is deposited by 3 important Himalayan river systems – the Indus, the Ganga and the Brahmaputra.
-    It is also found in Rajasthan, Gujarat and eastern coastal plains particularly in the deltas of the Mahanadi, the Godavari, the Krishna and the Kaveri rivers.
-    The alluvial soil consists of various proportions of sand, silt and clay. As we move inlands towards the river valleys, soil particles appear to be bigger in size whereas in the upper side of the river valley, the soils are coarse.
-    Based on age, Alluvial soils can be classified as:
-    Old Alluvial (Bangar): The Bangar soil has a higher concentration of kanker nodules than the Khadar.
-    New Alluvial (Khadar): It has more fine particles and is more fertile than the Bangar.
-    Alluvial soils are very fertile. These soils contain an adequate proportion of potash, phosphoric acid and lime, which are ideal for the growth of sugarcane, paddy, wheat and other cereal and pulse crops
-    Black Soil
-
-    This soil is black in colour and is also known as regur soil. Climatic conditions along with the parent rock material are the important factors for the formation of black soil.
-    The soil is ideal for growing cotton and is also known as black cotton soil.
-    This type of soil is typical of the Deccan trap (Basalt) region spread over northwest Deccan plateau and is made up of lava flows.
-    The soil covers the plateaus of Maharashtra, Saurashtra, Malwa, Madhya Pradesh and Chhattisgarh and extends in the south-east direction along the Godavari and the Krishna valleys.
-    The black soils are made up of extremely fine i.e. clayey material and well-known for their capacity to hold moisture.
-    Black soil is nutrients rich and contains calcium carbonate, magnesium, potash and lime.
-    The soil is sticky when wet and difficult to work on unless tilled immediately after the first shower or during the pre-monsoon period.
+The entire northern plains are made of alluvial soil.
+The Alluvial Soil is deposited by 3 important Himalayan river systems – the Indus, the Ganga and the Brahmaputra.
+It is also found in Rajasthan, Gujarat and eastern coastal plains particularly in the deltas of the Mahanadi, the Godavari, the Krishna and the Kaveri rivers.
+The alluvial soil consists of various proportions of sand, silt and clay. As we move inlands towards the river valleys, soil particles appear to be bigger in size whereas in the upper side of the river valley, the soils are coarse.
+Based on age, Alluvial soils can be classified as:
+Old Alluvial (Bangar): The Bangar soil has a higher concentration of kanker nodules than the Khadar.
+New Alluvial (Khadar): It has more fine particles and is more fertile than the Bangar.
+Alluvial soils are very fertile. These soils contain an adequate proportion of potash, phosphoric acid and lime, which are ideal for the growth of sugarcane, paddy, wheat and other cereal and pulse crops
+Black Soil
+This soil is black in colour and is also known as regur soil. Climatic conditions along with the parent rock material are the important factors for the formation of black soil.
+The soil is ideal for growing cotton and is also known as black cotton soil.
+This type of soil is typical of the Deccan trap (Basalt) region spread over northwest Deccan plateau and is made up of lava flows.
+The soil covers the plateaus of Maharashtra, Saurashtra, Malwa, Madhya Pradesh and Chhattisgarh and extends in the south-east direction along the Godavari and the Krishna valleys.
+The black soils are made up of extremely fine i.e. clayey material and well-known for their capacity to hold moisture.
+Black soil is nutrients rich and contains calcium carbonate, magnesium, potash and lime.
+The soil is sticky when wet and difficult to work on unless tilled immediately after the first shower or during the pre-monsoon period.
 Red and Yellow Soils
-
-    This type of soil develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern parts of the Deccan plateau.
-    These soils develop a reddish colour due to diffusion of iron in crystalline and metamorphic rocks. It looks yellow when it occurs in a hydrated form.
-    Found in parts of Odisha, Chhattisgarh, southern parts of the middle Ganga plain and along the piedmont zone of the Western Ghats.
+This type of soil develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern parts of the Deccan plateau.
+These soils develop a reddish colour due to diffusion of iron in crystalline and metamorphic rocks. It looks yellow when it occurs in a hydrated form.
+Found in parts of Odisha, Chhattisgarh, southern parts of the middle Ganga plain and along the piedmont zone of the Western Ghats.
 Laterite Soil
-
-    The laterite soil develops under tropical and subtropical climate with the alternate wet and dry season.
-    This soil is the result of intense leaching due to heavy rain.
-    Lateritic soils are acidic (pH<6.0) in nature and generally deficient in plant nutrients. This type of soil is found mostly in Southern states, Western Ghats region of Maharashtra, Odisha, some parts of West Bengal and North-east regions.
-    The soil supports deciduous and evergreen forests but humus poor.
-    This soil is very useful for growing tea and coffee.
+The laterite soil develops under tropical and subtropical climate with the alternate wet and dry season.
+This soil is the result of intense leaching due to heavy rain.
+Lateritic soils are acidic (pH<6.0) in nature and generally deficient in plant nutrients. This type of soil is found mostly in Southern states, Western Ghats region of Maharashtra, Odisha, some parts of West Bengal and North-east regions.
+The soil supports deciduous and evergreen forests but humus poor.
+This soil is very useful for growing tea and coffee.
 Arid Soils
-
-    Arid soils range from red to brown in colour.
-    This soil is generally sandy in texture and saline in nature. In some areas, the salt content is very high and common salt is obtained by evaporating the water.
-    Arid soil lacks humus and moisture.
-    The lower horizons of the soil are occupied by Kankar because of the increasing calcium content downwards. The Kankar layer formations in the bottom horizons restrict the infiltration of water.
+Arid soils range from red to brown in colour.
+This soil is generally sandy in texture and saline in nature. In some areas, the salt content is very high and common salt is obtained by evaporating the water.
+Arid soil lacks humus and moisture.
+The lower horizons of the soil are occupied by Kankar because of the increasing calcium content downwards. The Kankar layer formations in the bottom horizons restrict the infiltration of water.
 Forest Soils
-
-    These soils are found in the hilly and mountainous areas.
-    The soil texture is loamy and silty in valley sides and coarse grained in the upper slopes.
-    In the snow covered areas of Himalayas, these soils experience denudation and are acidic with low humus content. The soil is fertile on the river terraces and alluvial fans.
+These soils are found in the hilly and mountainous areas.
+The soil texture is loamy and silty in valley sides and coarse grained in the upper slopes.
+In the snow covered areas of Himalayas, these soils experience denudation and are acidic with low humus content. The soil is fertile on the river terraces and alluvial fans.
 Soil Erosion and Soil Conservation
-
 The denudation of the soil cover and subsequent washing down is described as soil erosion. The soil erosion is caused due to human activities like deforestation, over-grazing, construction and mining etc. Also, there are some natural forces like wind, glacier and water which lead to soil erosion. Soil erosion is also caused due to defective methods of farming.
-
 The running water cuts through the clayey soils and makes deep channels as gullies. The land becomes unfit for cultivation and is known as bad land. When water flows as a sheet over large areas down a slope and the topsoil is washed away, it is known as sheet erosion. Wind blows loose soil off flat or sloping land known as wind erosion.
 Different Ways for Soil Conservation
-
-    Ploughing along the contour lines decelerate the flow of water down the slopes. This is called Contour Ploughing.
-    Terrace cultivation restricts erosion. This type of agriculture practice is done in Western and Central Himalayas.
-    When a large field is divided into strips and strips of grass are left to grow between the crops. Then, this breaks up the force of the wind. This method is known as Strip Cropping.
-    Planting lines of trees to create shelter helps in the stabilisation of sand dunes and in stabilising the desert in western India. Rows of such trees are called Shelter Belts#.
+Ploughing along the contour lines decelerate the flow of water down the slopes. This is called Contour Ploughing.
+Terrace cultivation restricts erosion. This type of agriculture practice is done in Western and Central Himalayas.
+When a large field is divided into strips and strips of grass are left to grow between the crops. Then, this breaks up the force of the wind. This method is known as Strip Cropping.
+Planting lines of trees to create shelter helps in the stabilisation of sand dunes and in stabilising the desert in western India. Rows of such trees are called Shelter Belts#.
